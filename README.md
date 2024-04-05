@@ -22,4 +22,4 @@ License
 This data is available under the MIT License.
 
 Contact
-For more information, please contact [Your Name] at [Your Email].
+For more information, please contact Professor Luo at hiccp@henu.edu.cn.
